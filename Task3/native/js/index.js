@@ -17,3 +17,4 @@ var helloNewWordModule = (function() {
 helloWordModule.hello();
 helloNewWordModule.hello();
 //https://tproger.ru/translations/configure-webpack4/
+//http://dev-city.me/2017/08/31/webpack-config-example
